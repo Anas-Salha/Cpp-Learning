@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CppWorkspace" Database="" Version="10.0.0">
+  <Project Name="001_Test" Path="001_Test/001_Test.project" Active="No"/>
+  <Project Name="Section004" Path="Section004/Section004.project" Active="No"/>
+  <Project Name="Section007-Challenge" Path="Section007-Challenge/Section007-Challenge.project" Active="No"/>
+  <Project Name="Section008-Challenge" Path="Section008-Challenge/Section008-Challenge.project" Active="No"/>
+  <Project Name="Section009-Challenge" Path="Section009-Challenge/Section009-Challenge.project" Active="No"/>
+  <VirtualDirectory Name="Section010">
+    <Project Name="001_Challenge" Path="Section010/001_Challenge/001_Challenge.project" Active="No"/>
+    <Project Name="002_Assignment1" Path="Section010/002_Assignment1/002_Assignment1.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Section011-Challenge" Path="Section011-Challenge/Section011-Challenge.project" Active="No"/>
+  <Project Name="Section012-Challenge" Path="Section012-Challenge/Section012-Challenge.project" Active="No"/>
+  <VirtualDirectory Name="Section013">
+    <Project Name="001_DeclaringClassesAndObjects" Path="Section013/001_DeclaringClassesAndObjects/001_DeclaringClassesAndObjects.project" Active="No"/>
+    <Project Name="002_AccessingClassMembers" Path="Section013/002_AccessingClassMembers/002_AccessingClassMembers.project" Active="No"/>
+    <Project Name="004_ImplementingMethods" Path="Section013/004_ImplementingMethods/004_ImplementingMethods.project" Active="No"/>
+    <Project Name="003_AccessModifiers" Path="Section013/003_AccessModifiers/003_AccessModifiers.project" Active="No"/>
+    <Project Name="005_DefaultConstructors" Path="Section013/005_DefaultConstructors/005_DefaultConstructors.project" Active="No"/>
+    <Project Name="006_ConstructorInitializationLists" Path="Section013/006_ConstructorInitializationLists/006_ConstructorInitializationLists.project" Active="No"/>
+    <Project Name="007_DelegatingConstructors" Path="Section013/007_DelegatingConstructors/007_DelegatingConstructors.project" Active="No"/>
+    <Project Name="008_DefaultConstructorParameters" Path="Section013/008_DefaultConstructorParameters/008_DefaultConstructorParameters.project" Active="No"/>
+    <Project Name="009_CopyConstructor" Path="Section013/009_CopyConstructor/009_CopyConstructor.project" Active="No"/>
+    <Project Name="010_ShallowAndDeepCopying" Path="Section013/010_ShallowAndDeepCopying/010_ShallowAndDeepCopying.project" Active="No"/>
+    <Project Name="011_MoveConstructors" Path="Section013/011_MoveConstructors/011_MoveConstructors.project" Active="No"/>
+    <Project Name="012_ConstInClass" Path="Section013/012_ConstInClass/012_ConstInClass.project" Active="No"/>
+    <Project Name="013_StaticClassMembers" Path="Section013/013_StaticClassMembers/013_StaticClassMembers.project" Active="No"/>
+    <Project Name="014_Challenge" Path="Section013/014_Challenge/014_Challenge.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section014">
+    <Project Name="001_OperatorsAsMembers" Path="Section014/001_OperatorsAsMembers/001_OperatorsAsMembers.project" Active="No"/>
+    <Project Name="002_Challenge-1" Path="Section014/002_Challenge-1/002_Challenge-1.project" Active="No"/>
+    <Project Name="003_Challenge-2" Path="Section014/003_Challenge-2/003_Challenge-2.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section015">
+    <Project Name="001_DerivedClasses" Path="Section015/001_DerivedClasses/001_DerivedClasses.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="001_Test" ConfigName="Debug"/>
+      <Project Name="Section004" ConfigName="Debug"/>
+      <Project Name="Section007-Challenge" ConfigName="Debug"/>
+      <Project Name="Section008-Challenge" ConfigName="Debug"/>
+      <Project Name="Section009-Challenge" ConfigName="Debug"/>
+      <Project Name="001_Challenge" ConfigName="Debug"/>
+      <Project Name="002_Assignment1" ConfigName="Debug"/>
+      <Project Name="Section011-Challenge" ConfigName="Debug"/>
+      <Project Name="Section012-Challenge" ConfigName="Debug"/>
+      <Project Name="001_DeclaringClassesAndObjects" ConfigName="Debug"/>
+      <Project Name="002_AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="004_ImplementingMethods" ConfigName="Debug"/>
+      <Project Name="003_AccessModifiers" ConfigName="Debug"/>
+      <Project Name="005_DefaultConstructors" ConfigName="Debug"/>
+      <Project Name="006_ConstructorInitializationLists" ConfigName="Debug"/>
+      <Project Name="007_DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="008_DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="009_CopyConstructor" ConfigName="Debug"/>
+      <Project Name="010_ShallowAndDeepCopying" ConfigName="Debug"/>
+      <Project Name="011_MoveConstructors" ConfigName="Debug"/>
+      <Project Name="012_ConstInClass" ConfigName="Debug"/>
+      <Project Name="013_StaticClassMembers" ConfigName="Debug"/>
+      <Project Name="014_Challenge" ConfigName="Debug"/>
+      <Project Name="001_OperatorsAsMembers" ConfigName="Debug"/>
+      <Project Name="002_Challenge-1" ConfigName="Debug"/>
+      <Project Name="003_Challenge-2" ConfigName="Debug"/>
+      <Project Name="001_DerivedClasses" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="001_Test" ConfigName="Release"/>
+      <Project Name="Section004" ConfigName="Release"/>
+      <Project Name="Section007-Challenge" ConfigName="Release"/>
+      <Project Name="Section008-Challenge" ConfigName="Release"/>
+      <Project Name="Section009-Challenge" ConfigName="Release"/>
+      <Project Name="001_Challenge" ConfigName="Release"/>
+      <Project Name="002_Assignment1" ConfigName="Release"/>
+      <Project Name="Section011-Challenge" ConfigName="Release"/>
+      <Project Name="Section012-Challenge" ConfigName="Release"/>
+      <Project Name="001_DeclaringClassesAndObjects" ConfigName="Release"/>
+      <Project Name="002_AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="004_ImplementingMethods" ConfigName="Release"/>
+      <Project Name="003_AccessModifiers" ConfigName="Release"/>
+      <Project Name="005_DefaultConstructors" ConfigName="Release"/>
+      <Project Name="006_ConstructorInitializationLists" ConfigName="Release"/>
+      <Project Name="007_DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="008_DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="009_CopyConstructor" ConfigName="Release"/>
+      <Project Name="010_ShallowAndDeepCopying" ConfigName="Release"/>
+      <Project Name="011_MoveConstructors" ConfigName="Release"/>
+      <Project Name="012_ConstInClass" ConfigName="Release"/>
+      <Project Name="013_StaticClassMembers" ConfigName="Release"/>
+      <Project Name="014_Challenge" ConfigName="Release"/>
+      <Project Name="001_OperatorsAsMembers" ConfigName="Release"/>
+      <Project Name="002_Challenge-1" ConfigName="Release"/>
+      <Project Name="003_Challenge-2" ConfigName="Release"/>
+      <Project Name="001_DerivedClasses" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
