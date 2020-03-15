@@ -3,10 +3,10 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=001_DerivedClasses
+ProjectName            :=002_BaseClassInitialization
 ConfigurationName      :=Debug
 WorkspacePath          :="D:/Self-learning/Udemy/Beginning C++ Programming - From Beginner to Beyond/CppWorkspace"
-ProjectPath            :="D:/Self-learning/Udemy/Beginning C++ Programming - From Beginner to Beyond/CppWorkspace/Section015/001_DerivedClasses"
+ProjectPath            :="D:/Self-learning/Udemy/Beginning C++ Programming - From Beginner to Beyond/CppWorkspace/Section015/002_BaseClassInitialization"
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
@@ -32,7 +32,7 @@ Preprocessors          :=
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
 PreprocessOnlySwitch   :=-E
-ObjectsFileList        :="001_DerivedClasses.txt"
+ObjectsFileList        :="002_BaseClassInitialization.txt"
 PCHCompileFlags        :=
 MakeDirCommand         :=makedir
 RcCmpOptions           := 
@@ -94,7 +94,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/Self-learning/Udemy/Beginning C++ Programming - From Beginner to Beyond/CppWorkspace/Section015/001_DerivedClasses/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/Self-learning/Udemy/Beginning C++ Programming - From Beginner to Beyond/CppWorkspace/Section015/002_BaseClassInitialization/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 
