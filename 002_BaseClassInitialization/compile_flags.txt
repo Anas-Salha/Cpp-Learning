@@ -1,9 +1,0 @@
--Id:\MinGW\lib\gcc\mingw32\8.2.0\include\c++
--Id:\MinGW\lib\gcc\mingw32\8.2.0\include\c++\mingw32
--Id:\MinGW\lib\gcc\mingw32\8.2.0\include\c++\backward
--Id:\MinGW\lib\gcc\mingw32\8.2.0\include
--Id:\MinGW\include
--Id:\MinGW\lib\gcc\mingw32\8.2.0\include-fixed
--I"D:\Self-learning\Udemy\Beginning C++ Programming - From Beginner to Beyond\CppWorkspace\Section015\002_BaseClassInitialization"
--target
-x86_64-pc-windows-gnu
